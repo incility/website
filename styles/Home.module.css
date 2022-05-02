@@ -115,10 +115,12 @@
   }
 }
 
-
 .description {
-  color:aliceblue;
+  color: aliceblue;
   top: 60%;
   left: 50%;
-  position:absolute;
+  position: absolute;
+}
+
+.skillhash {
 }
