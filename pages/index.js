@@ -7,9 +7,7 @@ export default function Home() {
     <div className={styles.container}>
       <image className={styles.logo} src='/public/images/logo.png' alt='logo' />
       <p className={styles.description}>
-        cool company focused on blockchain innovation and education.
-        <br />
-        backed by <i className={styles.skillash}>skillhash</i>
+        hi there!
       </p>
     </div>
   );
